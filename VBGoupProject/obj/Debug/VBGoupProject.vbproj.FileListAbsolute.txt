@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\obj\Debug\VBGoupProject.vbprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\obj\Debug\VBGoupProject.Login.resources
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\obj\Debug\VBGoupProject.Items.resources
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\obj\Debug\VBGoupProject.Resources.resources
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\obj\Debug\VBGoupProject.Orders.resources
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\obj\Debug\VBGoupProject.ViewOrder.resources
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\obj\Debug\VBGoupProject.vbproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\obj\Debug\VBGoupProject.vbproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\bin\Debug\VBGoupProject.exe.config
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\bin\Debug\VBGoupProject.exe
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\bin\Debug\VBGoupProject.pdb
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\bin\Debug\VBGoupProject.xml
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\obj\Debug\VBGoupProject.exe
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\obj\Debug\VBGoupProject.xml
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\obj\Debug\VBGoupProject.pdb
+C:\Users\User\OneDrive\Documents\VB Net\PROJECT\VBGoupProject\VBGoupProject\obj\Debug\VBGoupProject.LoadScreen.resources
